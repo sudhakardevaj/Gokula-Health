@@ -12,18 +12,6 @@ Gokula-Health is a fully offline, modern Android application designed as a **Dig
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots here by dragging and dropping images from your computer into the GitHub editor)*
-
-<p float="left">
-  <img src="https://via.placeholder.com/250x500.png?text=Home+Screen" width="200" />
-  <img src="https://via.placeholder.com/250x500.png?text=Milk+Yield+Chart" width="200" /> 
-  <img src="https://via.placeholder.com/250x500.png?text=Breeding+Tracker" width="200" />
-  <img src="https://via.placeholder.com/250x500.png?text=Smart+Vaccinations" width="200" />
-</p>
-
----
-
 ## ✨ Core Features
 
 ### 🥛 Milk Diary & Yield Analytics (Female Cattle)
@@ -102,10 +90,9 @@ The app relies on a robust, offline-first relational database:
 * `INTERNET` - For GenAI API suggestions.
 
 ## 👨‍💻 Author
-[Your Name/MindMatrix]
-
-LinkedIn: [Your LinkedIn Profile URL]
-Portfolio: [Your Portfolio URL]
+Devaj S
+1BI22CD010
+MindMatrix Internship
 
 ## 📄 License
 This project is licensed under the MIT License.
