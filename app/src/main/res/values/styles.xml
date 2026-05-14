@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">#F1F8E9</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+        <item name="postSplashScreenTheme">@style/Theme.GokulaHealth</item>
+    </style>
+
+    <style name="Theme.GokulaHealth" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#2E7D32</item>
+    </style>
+</resources>
