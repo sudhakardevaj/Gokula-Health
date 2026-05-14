@@ -90,9 +90,9 @@ The app relies on a robust, offline-first relational database:
 * `INTERNET` - For GenAI API suggestions.
 
 ## 👨‍💻 Author
-Devaj S
-1BI22CD010
-MindMatrix Internship
+[Devaj S]
+[1BI22CD010]
+[MindMatrix Internship]
 
 ## 📄 License
 This project is licensed under the MIT License.
